@@ -42,7 +42,7 @@ JSON格式如下：
         pointDataPosition : 3
       }
     ]
-  }
+  },
   data : {
    year : "2018",
    list : [
